@@ -9,6 +9,6 @@
   "dependencies": {
     "@babel/core": "^7.12.9",
     "dotenv": "^8.2.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
