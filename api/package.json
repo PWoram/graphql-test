@@ -39,7 +39,7 @@
     "graphql-relay": "^0.6.0",
     "graphql-voyager": "^1.0.0-rc.31",
     "handlebars": "^4.7.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "^0.21.12",
     "lodash": "^4.17.20",
     "moment-timezone": "^0.5.32",
